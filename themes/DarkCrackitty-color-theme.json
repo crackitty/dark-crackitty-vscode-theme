@@ -58,7 +58,7 @@
     {
       "scope": "entity.name.selector",
       "settings": {
-        "foreground": "#8ec07c"
+        "foreground": "#21d0dd"
       }
     },
     {
@@ -428,7 +428,7 @@
     {
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#fb4934"
+        "foreground": "#21d0dd"
       }
     },
     {
