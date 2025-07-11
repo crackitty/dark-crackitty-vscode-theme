@@ -39,7 +39,7 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#928374",
+        "foreground": "#31c54a",
         "fontStyle": "italic"
       }
     },
@@ -925,7 +925,7 @@
     "editorGroupHeader.tabsBackground": "#1d2021",
     "editorGroupHeader.tabsBorder": "#3c3836",
     "tab.border": "#1d202100",
-    "tab.activeBorder": "#689d6a",
+    "tab.activeBorder": "#21d0dd",
     "tab.activeBackground": "#32302f",
     "tab.activeForeground": "#ebdbb2",
     "tab.inactiveForeground": "#a89984",
